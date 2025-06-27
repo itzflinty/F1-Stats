@@ -1,0 +1,15 @@
+c:\Dev\F1-Stats\F1CircuitViewer\bin\Debug\net9.0\F1CircuitViewer.exe
+c:\Dev\F1-Stats\F1CircuitViewer\bin\Debug\net9.0\F1CircuitViewer.deps.json
+c:\Dev\F1-Stats\F1CircuitViewer\bin\Debug\net9.0\F1CircuitViewer.runtimeconfig.json
+c:\Dev\F1-Stats\F1CircuitViewer\bin\Debug\net9.0\F1CircuitViewer.dll
+c:\Dev\F1-Stats\F1CircuitViewer\bin\Debug\net9.0\F1CircuitViewer.pdb
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.AssemblyInfoInputs.cache
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.AssemblyInfo.cs
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.csproj.CoreCompileInputs.cache
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.sourcelink.json
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.dll
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\refint\F1CircuitViewer.dll
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.pdb
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\F1CircuitViewer.genruntimeconfig.cache
+c:\Dev\F1-Stats\F1CircuitViewer\obj\Debug\net9.0\ref\F1CircuitViewer.dll
